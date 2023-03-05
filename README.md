@@ -7,7 +7,7 @@
 </p>
 
 
-I'm a junior web developer who likes to work with JavaScript, php,and Python. 
+  I'm a junior web developer who likes to work with JavaScript, php,and Python. 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mheri613&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
