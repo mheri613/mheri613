@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mheri613">
-    <img width="100" src="https://github.com/account" alt="logo" />
+    <img width="100" src="https://avatars.githubusercontent.com/u/112502340?s=96&v=4" alt="logo" />
   </a>
 </p>
 
