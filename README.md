@@ -29,4 +29,5 @@ I just learned programming last year and I'm very interested in php and python l
 * Parkour 
 * Nutrition
 * Nature
+* comics (manga, manhwa, and maybe manhua)
 
