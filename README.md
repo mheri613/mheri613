@@ -1,8 +1,8 @@
 # Hi, I'm Vermi
 
 <p align="center">
-  <a href="https://aralroca.com">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+  <a href="https://github.com/mheri613">
+    <img width="100" src="https://github.com/account" alt="logo" />
   </a>
 </p>
 
