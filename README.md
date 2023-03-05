@@ -7,7 +7,7 @@
 </p>
 
 
-  I'm a junior web developer who likes to work with JavaScript, php,and Python. 
+I'm a junior web developer who likes to work with JavaScript, php,and Python. 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mheri613&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
@@ -17,8 +17,7 @@
   <br />
 </div>
 
-A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
-
+I just learned programming last year and I'm very interested in php and python languages. but I still have a lot of time to study. Remember learning when you are young is like carving on stone and learning when you are old is like painting on water.
 
 #### 🧡 &nbsp;&nbsp;My passions
 
