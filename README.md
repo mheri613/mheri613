@@ -36,17 +36,6 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact,
 
 A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
 
-<br />
-
-#### 📖 &nbsp;&nbsp;[aralroca.com](https://aralroca.com): Last 5 articles
- 
-* [Teaful DevTools Released!](https://aralroca.com/blog/teaful-devtools) 
-* [Teaful: tiny, easy and powerful React state management](https://aralroca.com/blog/teaful) 
-* [React state with a fragmented store](https://aralroca.com/blog/react-fragmented-store) 
-* [Virtual Sommelier, text classifier in the browser](https://aralroca.com/blog/food-pairing-classifier) 
-* [Next-translate - Version 1.0 Released](https://aralroca.com/blog/next-translate-1.0)
-
-<br />
 
 #### 🧡 &nbsp;&nbsp;My passions
 
