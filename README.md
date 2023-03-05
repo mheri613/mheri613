@@ -18,7 +18,7 @@ I'm a junior web developer who likes to work with JavaScript, php,and Python. an
   <br />
 </div>
 
-I just learned programming last year and I'm very interested in php and python languages. but I still have a lot of time to study. Remember... learning when you are young is like carving on stone and learning when you are old is like painting on water 😇.
+I just learned programming last year and I'm very interested in css and python languages. but I still have a lot of time to study. Remember... learning when you are young is like carving on stone and learning when you are old is like painting on water 😇.
 
 #### 🧡 &nbsp;&nbsp;My passions
 
