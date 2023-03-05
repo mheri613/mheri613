@@ -6,8 +6,9 @@
   </a>
 </p>
 
-
-<small>I'm a junior web developer who likes to work with JavaScript, php,and Python. and I'm also a distro hunter.</small>
+<div align="center">
+I'm a junior web developer who likes to work with JavaScript, php,and Python. and I'm also a distro hunter.
+</div>
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mheri613&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
