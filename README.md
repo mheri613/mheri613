@@ -13,7 +13,7 @@ I'm a junior web developer who likes to work with JavaScript, php,and Python. an
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mheri613&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos - big fan of css and maybe php 😛</small>
+  <small>Most languages used in my public repos - big fan of css and maybe php 😛</small>
   <br />
   <br />
 </div>
