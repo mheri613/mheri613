@@ -27,7 +27,6 @@ I just learned programming last year and I'm very interested in css and python l
 * Machine learning 
 * Books 
 * Parkour 
-* Nutrition
 * Nature
 * comics (manga, manhwa, and maybe manhua)
 
