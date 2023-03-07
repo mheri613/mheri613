@@ -28,5 +28,6 @@ I just learned programming last year and I'm very interested in css and python l
 * Books 
 * Parkour 
 * Nature
-* comics (manga, manhwa, and maybe manhua)
+* Comics (manga, manhwa, and maybe manhua)
+* Anime
 
