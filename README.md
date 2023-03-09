@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-I'm a junior web developer who likes to work with JavaScript, php,and Python. and I'm also a distro hunter.
+I'm a junior web developer who likes to work with JavaScript, php,and Python. and I'm also a distro hopper.
 </div>
 
 <div align="center">
